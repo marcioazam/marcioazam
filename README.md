@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm from Santa Catarina, Brasil<br><br>- 🔭 I’m working as Software Developer.<br>- 📚 I'm currently learning English and Backend Languages.<br>- ⚡ In my free time I go to de beach.</p>
+<p align="left">I'm from Santa Catarina, Brasil<br><br>- 🔭 I’m working as Full Stack Developer.<br>- 📚 I'm currently learning English and Backend Languages.<br>- ⚡ In my free time I go to de beach.</p>
 
 ###
 
