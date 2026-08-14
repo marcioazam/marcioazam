@@ -1,112 +1,57 @@
-<br clear="both">
+<div align="center">
+
+# Márcio Contreiras Azambujo
+
+**Senior Software Engineer** · AI Engineering · .NET · Python · TypeScript
+
+Florianópolis, Brazil · working with teams in Lisbon
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcio-contreiras-169201142/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:marcio_contreiras@outlook.com.br)
+
+</div>
+
+I build production backends that have to stay up. Nine years of that, mostly in C# / .NET, TypeScript and Python: insurance platforms, logistics, and the unglamorous work of migrating ASP.NET MVC to .NET Core without taking the system down.
+
+The work I care about now is putting generative AI into those same systems. LLMs, MCP, prompt engineering, and coding agents, on Azure and AWS, with the same standard I already apply to the rest of the stack: timeouts, observability, auth that fails closed.
+
+At [UON](https://www.linkedin.com/company/uongroup) I work on high-availability insurance systems (.NET Core, Python, Redis, Azure Application Insights). Before that I led a team of four at Logstore, put CI/CD on AWS and Docker, and introduced Kubernetes. I have also shipped an ORM and a CMS that are still in production.
+
+When I am not at the keyboard I am at the beach.
+
+## What I am building in public
+
+| Repo | What it is |
+| --- | --- |
+| [nycode-cli](https://github.com/marcioazam/nycode-cli) | Terminal coding-agent harness in Rust, pointed at a self-hosted AI gateway. Startup and memory are CI gates, not aspirations. |
+| [nylla-adapter-npm](https://github.com/marcioazam/nylla-adapter-npm) | One CLI that writes base URL, model and API key into the config of the AI coding tools you already use. |
+| [python-api-base](https://github.com/marcioazam/python-api-base) | FastAPI + Clean Architecture starter: generic CRUD, JWT/RBAC, circuit breaker, OpenTelemetry, property-based tests. |
+| [pineaple-ui](https://github.com/marcioazam/pineaple-ui) | Accessible React 19 component library. Headless primitives and styled pieces, Tailwind 4, Radix, design tokens. |
+| [hydraframework](https://github.com/marcioazam/hydraframework) | C# SQL query framework for legacy .NET, where Entity Framework is not an option. |
+| [github-actions](https://github.com/marcioazam/github-actions) | Reusable GitHub Actions: workflow hardening, multi-cloud deploy, release automation. |
+
+## Stack I actually use
+
+Languages I get paid for, not every tool I have opened once.
 
 <div align="center">
-  <img height="150" src="https://static.doomworld.com/monthly_2022_03/ggy4pew2n5d61.gif.eafa59627bea6183d9d8c88d9d3cb009.gif"  />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,go,rust,vue,react,angular,azure,aws,docker,kubernetes" alt="C#, .NET, Python, TypeScript, Go, Rust, Vue, React, Angular, Azure, AWS, Docker, Kubernetes" />
 </div>
 
-###
+<br/>
+
+**Languages:** C# · Python · TypeScript · Go · Rust  
+**Frontend:** Vue · React · Angular  
+**Cloud:** Azure · AWS · Docker · Kubernetes · Redis  
+**AI:** LLMs · MCP · agent tooling · prompt engineering
+
+## Activity
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marcio-contreiras-169201142/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://w.app/azam" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcioazam&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioazam&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
 </div>
 
-###
-
-<h1 align="center">Hi Friend 👋</h1>
-
-###
-
-<h3 align="left">About Me:</h3>
-
-###
-
-<p align="left">I'm from Santa Catarina, Brasil<br><br>- 🔭 I’m working as Full Stack Developer.<br>- 📚 I'm currently learning English and Backend Languages.<br>- ⚡ In my free time I go to de beach.</p>
-
-###
-
-<h3 align="left">Language and tools:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=marcioazam&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" alt="Contribution streak" />
 </div>
-
-###
-
-<h3 align="left">My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=marcioazam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
