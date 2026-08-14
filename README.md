@@ -15,7 +15,7 @@ I build production backends that have to stay up. Nine years of that, mostly in 
 
 The work I care about now is putting generative AI into those same systems. LLMs, MCP, prompt engineering, and coding agents, on Azure and AWS, with the same standard I already apply to the rest of the stack: timeouts, observability, auth that fails closed.
 
-At [UON](https://www.linkedin.com/company/uongroup) I work on high-availability insurance systems (.NET Core, Python, Redis, Azure Application Insights). Before that I led a team of four at Logstore, put CI/CD on AWS and Docker, and introduced Kubernetes. I have also shipped an ORM and a CMS that are still in production.
+I work on high-availability insurance systems (.NET Core, Python, Redis, Azure Application Insights). Before that I led a team of four at Logstore, put CI/CD on AWS and Docker, and introduced Kubernetes. I have also shipped an ORM and a CMS that are still in production.
 
 When I am not at the keyboard I am at the beach.
 
