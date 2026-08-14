@@ -48,10 +48,5 @@ Languages I get paid for, not every tool I have opened once.
 ## Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcioazam&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioazam&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Most used languages" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=marcioazam&locale=en&mode=daily&theme=transparent&hide_border=true&border_radius=5&order=3" alt="Contribution streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=marcioazam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Contribution streak" />
 </div>
