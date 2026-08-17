@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img height="150" src="https://static.doomworld.com/monthly_2022_03/ggy4pew2n5d61.gif.eafa59627bea6183d9d8c88d9d3cb009.gif" alt="" />
+  <img height="150" src="https://static.doomworld.com/monthly_2022_03/ggy4pew2n5d61.gif.eafa59627bea6183d9d8c88d9d3cb009.gif" alt="Doom animation" />
 
 # Márcio Contreiras Azambujo
 
-**Senior Software Engineer** · AI Engineering · .NET · Python · TypeScript
+**Senior Software Engineer** · Reliable Backends · AI Engineering
 
 Florianópolis, Brazil · working with teams in Lisbon
 
@@ -13,28 +13,31 @@ Florianópolis, Brazil · working with teams in Lisbon
 
 </div>
 
-I build production backends that have to stay up. Nine years of that, mostly in C# / .NET, TypeScript and Python: insurance platforms, logistics, and the unglamorous work of migrating ASP.NET MVC to .NET Core without taking the system down.
+I build reliable backend and AI-enabled systems for production. Over nine years, I have worked primarily with C#/.NET, TypeScript, and Python across insurance and logistics platforms, including high-availability services and ASP.NET MVC to .NET Core migrations.
 
-The work I care about now is putting generative AI into those same systems. LLMs, MCP, prompt engineering, and coding agents, on Azure and AWS, with the same standard I already apply to the rest of the stack: timeouts, observability, auth that fails closed.
+My current focus is practical AI engineering: LLMs, RAG systems, MCP, prompt engineering, and coding agents integrated into real software on Azure and AWS. The standard stays the same: clear authorization, observability, timeouts, and resilient integrations that fail closed.
 
-I work on high-availability insurance systems (.NET Core, Python, Redis, Azure Application Insights). Before that I led a team of four at Logstore, put CI/CD on AWS and Docker, and introduced Kubernetes. I have also shipped an ORM and a CMS that are still in production.
+I currently contribute to high-availability insurance systems with .NET Core, Python, Redis, and Azure Application Insights. Previously, I led a team of four at Logstore, introduced CI/CD on AWS and Docker, and helped bring Kubernetes into the platform. I have also shipped an ORM and CMS that remain in production.
 
 When I am not at the keyboard I am at the beach.
 
-## Stack I actually use
+## Stack I Build With
 
-Languages I get paid for, not every tool I have opened once.
+Production technologies and active engineering work, not a logo collection.
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,go,rust,vue,react,angular,azure,aws,docker,kubernetes" alt="C#, .NET, Python, TypeScript, Go, Rust, Vue, React, Angular, Azure, AWS, Docker, Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,go,rust,fastapi,vue,react,angular,tailwind,azure,aws,docker,kubernetes,githubactions,postgres,redis" alt="C#, .NET, Python, TypeScript, Go, Rust, FastAPI, Vue, React, Angular, Tailwind CSS, Azure, AWS, Docker, Kubernetes, GitHub Actions, PostgreSQL, Redis" />
 </div>
 
 <br/>
 
-**Languages:** C# · Python · TypeScript · Go · Rust  
-**Frontend:** Vue · React · Angular  
-**Cloud:** Azure · AWS · Docker · Kubernetes · Redis  
-**AI:** LLMs · MCP · Agent Tooling · Prompt Engineering
+**Languages:** C# · Python · TypeScript · Go · Rust<br>
+**Backend & APIs:** .NET Core · FastAPI · REST APIs · Redis<br>
+**Frontend:** Vue · React · Angular · Tailwind CSS<br>
+**Cloud & Delivery:** Azure · AWS · Docker · Kubernetes · GitHub Actions<br>
+**Data & Observability:** PostgreSQL · Azure Application Insights · OpenTelemetry<br>
+**AI Engineering:** LLMs · RAG · MCP · Agent Tooling · Prompt Engineering<br>
+**Architecture:** DDD · Clean Architecture · High-Availability Systems
 
 ## Activity
 
