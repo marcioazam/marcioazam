@@ -34,7 +34,7 @@ Languages I get paid for, not every tool I have opened once.
 **Languages:** C# · Python · TypeScript · Go · Rust  
 **Frontend:** Vue · React · Angular  
 **Cloud:** Azure · AWS · Docker · Kubernetes · Redis  
-**AI:** LLMs · MCP · agent tooling · prompt engineering
+**AI:** LLMs · MCP · Agent Tooling · Prompt Engineering
 
 ## Activity
 
